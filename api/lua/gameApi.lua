@@ -1,5 +1,4 @@
 --------------------------------------------------------------------------------
--- author : linhongwei
 -- 写法参见[auto complete](https://studio.zerobrane.com/doc-api-auto-complete)
 -- 可能需要参考的文件：ToLua.cs、LuaState.cs、tolua.lua、LuaBinder.cs、LuaCoroutine.cs
 -- 注意这里仅仅提供常用api提示，有些函数没有加进来，发现很有必要的话自己添加下吧
